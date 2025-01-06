@@ -48,7 +48,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🎨 Layout
 
-<!-- Você pode visualizar o layout do projeto através [deste link](https://www.figma.com/file/ubjetYdEuovQMCIYkmkcYJ/Explorer-Stage-03-Projeto-02-Copy?fuid=850516793117994371), no [Figma](http://figma.com/). É preciso ter uma conta na plataforma para acessá-lo. -->
+Você pode visualizar o layout do projeto através [deste link](https://www.figma.com/community/file/1360315130061454535/pagina-de-receita), no [Figma](http://figma.com/). É preciso ter uma conta na plataforma para acessá-lo.
 
 ## 📬 Entre em contato!
 
@@ -62,9 +62,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   <a href="mailto:hi@frontangie.dev" target="blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/icons/circle/email.svg" alt="Email" height="50" width="50" />
   </a>
-  <a href="https://twitter.com/frontangie" target="blank" style="text-decoration: none;">
+  <!-- <a href="https://twitter.com/frontangie" target="blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/icons/circle/twitter.svg" alt="Twitter" height="50" width="50" />
-    </a>
+    </a> -->
 </p>
 
 ---
