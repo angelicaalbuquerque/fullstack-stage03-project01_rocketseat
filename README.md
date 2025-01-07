@@ -32,7 +32,7 @@ A prática é a criação de uma página simples estruturada durante o _Stage 03
 
 Nesse desafio, cria-se uma aplicação, a partir de um layout pronto no Figma, para fortalecer alguns conceitos sobre estruturação e estilização de páginas.
 
-<!-- Confira o projeto finalizado, _online_, [aqui](https://angelicaalbuquerque.github.io/fullstack-stage03-project01_rocketseat). -->
+Confira o projeto finalizado, _online_, [aqui](https://angelicaalbuquerque.github.io/fullstack-stage03-project01_rocketseat).
 
 Para conferir detalhes de todos os módulos do curso e seus projetos, acesse [esse repositório](https://github.com/angelicaalbuquerque/fullstack_rocketseat).
 
