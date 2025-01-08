@@ -18,7 +18,7 @@ body {
   width: 800px;
   padding: 24px;
   border-radius: 24px;
-  margin: 48px auto;
+  margin: 48px auto 28px;
 }
 
 img {
@@ -56,4 +56,10 @@ main ul li {
 
 #ingredients {
   margin: 24px 0;
+}
+
+footer {
+  color: var(--text-color-on-bg);
+  text-align: center;
+  margin-bottom: 48px;
 }
