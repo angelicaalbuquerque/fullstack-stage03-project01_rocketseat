@@ -59,6 +59,8 @@ main ul li {
 }
 
 footer {
+  font-size: 16px;
+  line-height: 150%;
   color: var(--text-color-on-bg);
   text-align: center;
   margin-bottom: 48px;
