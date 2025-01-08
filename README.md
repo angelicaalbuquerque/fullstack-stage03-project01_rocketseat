@@ -26,6 +26,10 @@
 
 ## 📚 Sobre
 
+<div align="left">
+    <img src=".github/Thumbnail.jpg" width="500"/>
+</div>
+
 Projeto feito durante a formação em desenvolvimento _Fullstack_ da <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>.
 
 A prática é a criação de uma página simples estruturada durante o _Stage 03 - "Iniciando o HTML e CSS"_ da formação citada acima.
